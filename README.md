@@ -1,4 +1,4 @@
-The MNMI_MDD repository stores the Matlab code to estimate effective connectiivty (EC) in the Default mode-Salience (DMN-SAL) network and the Executive-Limbic (EXE-LIM) network.  
+The MNMI_MDD repository stores the Matlab code and data to estimate effective connectiivty (EC) in the Default mode-Salience (DMN-SAL) network and the Executive-Limbic (EXE-LIM) network.  
 
 The DMN-SAL folder contains the code and data for the DMN-SAL network
 
