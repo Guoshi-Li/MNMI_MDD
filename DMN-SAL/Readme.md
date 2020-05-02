@@ -1,3 +1,5 @@
+Matlab code and data for the Default mode-Salience (DMN-SAL) network
+
 The "FC" folder contains the functional connectivity (FC) matrices for 98 normal control (NC) subjects and 96 individuals with major depressive disorder (MDD).
 
 The "SC" mat file stores Structure Connectivity data
