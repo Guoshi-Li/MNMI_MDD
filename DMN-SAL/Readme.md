@@ -1,4 +1,6 @@
-Matlab code and data for the Default mode-Salience (DMN-SAL) network
+Matlab code and data for the Default mode-Salience (DMN-SAL) network. The detailed method with results can be found in the following paper:
+
+Li et al. (2020) Multiscale Neural Modeling of Resting-state fMRI Reveals Executive-Limbic Malfunction as a Core Mechanism in Major Depressive Disorder. medRxiv, doi: https://doi.org/10.1101/2020.04.29.20084855   
 
 The "FC" folder contains the functional connectivity (FC) matrices for 98 normal control (NC) subjects and 96 individuals with major depressive disorder (MDD).
 
