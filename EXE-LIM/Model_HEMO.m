@@ -1,9 +1,7 @@
 
-% Compute the BOLD signals in all ROIs sequentially!!! 
+% Compute the BOLD signals in all ROIs sequentially 
 
 function [tt, BOLD] = Model_HEMO(N, dt, ST, XX, FLAG_Mean_BOLD) 
-
-rng(66,'twister');
 
 global NR; 
 

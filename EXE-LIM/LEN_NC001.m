@@ -19,8 +19,6 @@ clear all;
 Subject = 'NC001';     % NC subject index
 filename = [Subject '_NET2.mat'];   % File name to store the output data
 
-rng(66,'twister'); % Seeds the random number generator
-
 load SC;  % Load structural connectivity
 
 MAX_GEN = 128;   % Maximal number of generations (iterations) for the genetic algorithm
@@ -103,8 +101,6 @@ toc
 %==========================================================================
 
 function f = FCobj(x)
-
-rng(66,'twister');
 
 Subject = 'NC001';   % Subject index number
 

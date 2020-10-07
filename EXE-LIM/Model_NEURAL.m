@@ -1,11 +1,6 @@
 
 function [tt, xx] = Model_NEURAL(N, dt, ST, SC, gC, WEE, WEI, WIE, PI, FLAG_Noise) 
 
-rng(66,'twister');
-
-% seed = 6;
-% rng(seed);
-
 global NR; 
 global A;
 global C;
